@@ -3,6 +3,7 @@ target/
 
 # Editor dropings + misc
 *.iml
+.idea/*
 
 # Package Files
 # If you  really need to add a .jar file, use "git add -f"
