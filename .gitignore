@@ -1,1 +1,19 @@
+# Directory Artifacts to ignore
 target/
+
+# Editor dropings + misc
+*.iml
+
+# Package Files
+# If you  really need to add a .jar file, use "git add -f"
+*.jar
+*.war
+*.ear
+
+#project files
+*.project
+.project
+*.classpath
+.classpath
+.settings/
+.springBeans
